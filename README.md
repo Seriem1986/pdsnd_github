@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-Interactive command line program to get information about e.g. travel-time
+Interactive command line program to get information about e.g. travel-time, most popular station.
 
 ### Files used
 bikeshare.py
