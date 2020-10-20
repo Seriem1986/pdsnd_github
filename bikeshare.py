@@ -256,7 +256,8 @@ def main():
             print(df.iloc[index + 2,:])
             print(df.iloc[index + 3,:])
             print(df.iloc[index + 4,:])
-            row_counter += 5
+            print(df.iloc[index + 5,:])
+            row_counter += 6
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
