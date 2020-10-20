@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+20.10.2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Interactive command line program to get information about e.g. travel-time
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks Udacity to have this course.
+Thanks also to my boss to let me make this.
 
